@@ -1,2 +1,2 @@
-# event_scheduler_hacktoberfest
+# event_scheduler
  
