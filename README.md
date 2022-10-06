@@ -9,6 +9,7 @@ This project needs to be built using React and Django
 - Clubs should be able to create new events and update them.
 - Students should be able to view the events and register for them
 - Students should also get reminders about the events they registered for.
+-[Link to UI for the website](https://www.figma.com/file/9QTNhsrGBYpniHS7RWJrcg/Event-Scheduler?node-id=60%3A64)
 
 ## Setting up project on your machine ⚙️
 - [Follow this guide](https://docs.djangoproject.com/en/4.1/intro/install/) to setup Django on your machine
